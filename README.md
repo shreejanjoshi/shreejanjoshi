@@ -9,7 +9,6 @@
 
 [<img align="left" alt="Shreejan | LinkedIn" width="22px" src="./icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Shreejan | Instagram" width="22px" src="./icons/instagram.png" />][instagram]
-[<img align="left" alt="Shreejan | Tableau" width="22px" src="./icons/tableau.png" />][tableau]
 
 <br/>
 
