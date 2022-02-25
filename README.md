@@ -31,7 +31,7 @@
 
 <br/>
 <br/>
-<br/><br/>
+<br/>
 
 
 <img align="left" alt="html" width="30px" src="./icons/html.png" />
@@ -43,7 +43,7 @@
 <img align="left" alt="symfony" width="30px" src="./icons/symfony.webp" />
 
 <br />
-<br /><br/><br/>
+<br /><br/>
 
 <img align="left" alt="photoshop" width="30px" src="./icons/photoshop.png" />
 <img align="left" alt="illustrator" width="30px" src="./icons/illustrator.webp" />
@@ -51,7 +51,7 @@
 <img align="left" alt="premiere pro" width="30px" src="./icons/premier-pro.jpg" />
 
 <br />
-<br /><br/><br/>
+<br /><br/>
 
 [<img align="left" alt="MySQL" width="30px" src="./icons/mysql.png" />](https://www.mysql.com/about/)
 [<img align="left" alt="GitHub" width="30px" src="./icons/github.png" />](https://github.com/about)
