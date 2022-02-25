@@ -1,6 +1,6 @@
 <h1 align="Center"> Hi there, I'm Shreejan 👋 </h1>
 
-<img src="./" alt="banner" >
+<img src="./icons/banner.jpg" alt="banner" >
 
 <br/>
 
