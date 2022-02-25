@@ -25,34 +25,33 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="./icons/visual studio.png" />](https://code.visualstudio.com/docs)
-[<img align="left" alt="PhpStrom" width="30px" src="./icons/phpstrom.png" />]
-[<img align="left" alt="atom" width="30px" src="./icons/atom.png" />]
-[<img align="left" alt="dreamweaver" width="30px" src="./icons/dreamweaver.png" />]
+<img align="left" alt="PhpStrom" width="30px" src="./icons/phpstrom.png" />
+<img align="left" alt="atom" width="30px" src="./icons/atom.png" />
+<img align="left" alt="dreamweaver" width="30px" src="./icons/dreamweaver.png" />
 
 <br/>
 <br/>
 
-[<img align="left" alt="html" width="30px" src="./icons/html.png" />]
-[<img align="left" alt="css" width="30px" src="./icons/css.png" />]
-[<img align="left" alt="bootstrap" width="30px" src="./icons/bootstrap.png" />]
-[<img align="left" alt="javascript" width="30px" src="./icons/js.png" />]
-[<img align="left" alt="react" width="30px" src="./icons/react.png" />]
-[<img align="left" alt="php" width="30px" src="./icons/php.png" />]
-[<img align="left" alt="symfony" width="30px" src="./icons/symfony.webp" />]
+<img align="left" alt="html" width="30px" src="./icons/html.png" />
+<img align="left" alt="css" width="30px" src="./icons/css.png" />
+<img align="left" alt="bootstrap" width="30px" src="./icons/bootstrap.png" />
+<img align="left" alt="javascript" width="30px" src="./icons/js.png" />
+<img align="left" alt="react" width="30px" src="./icons/react.png" />
+<img align="left" alt="php" width="30px" src="./icons/php.png" />
+<img align="left" alt="symfony" width="30px" src="./icons/symfony.webp" />
 
 <br />
 <br />
 
-[<img align="left" alt="photoshop" width="30px" src="./icons/photoshop.png" />]
-[<img align="left" alt="illustrator" width="30px" src="./icons/illustrator.webp" />]
-[<img align="left" alt="audition" width="30px" src="./icons/audition.png" />]
-[<img align="left" alt="premiere pro" width="30px" src="./icons/premier-pro.jpg" />]
+<img align="left" alt="photoshop" width="30px" src="./icons/photoshop.png" />
+<img align="left" alt="illustrator" width="30px" src="./icons/illustrator.webp" />
+<img align="left" alt="audition" width="30px" src="./icons/audition.png" />
+<img align="left" alt="premiere pro" width="30px" src="./icons/premier-pro.jpg" />
 
 <br />
 <br />
 
 [<img align="left" alt="MySQL" width="30px" src="./icons/mysql.png" />](https://www.mysql.com/about/)
-[<img align="left" alt="Git" width="30px" src="./icons/git.png" />](https://git-scm.com/about)
 [<img align="left" alt="GitHub" width="30px" src="./icons/github.png" />](https://github.com/about)
 
 <br />
