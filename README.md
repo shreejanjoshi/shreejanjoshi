@@ -28,11 +28,13 @@
 [<img align="left" alt="PhpStrom" width="30px" src="./icons/phpstrom.png" />]
 [<img align="left" alt="atom" width="30px" src="./icons/atom.png" />]
 [<img align="left" alt="dreamweaver" width="30px" src="./icons/dreamweaver.png" />]
+
 <br/>
 <br/>
+
 [<img align="left" alt="html" width="30px" src="./icons/html.png" />]
 [<img align="left" alt="css" width="30px" src="./icons/css.png" />]
-[<img align="left" alt="bootstrap" width="30px" src="./icons/bootstrap.pngp" />]
+[<img align="left" alt="bootstrap" width="30px" src="./icons/bootstrap.png" />]
 [<img align="left" alt="javascript" width="30px" src="./icons/js.png" />]
 [<img align="left" alt="react" width="30px" src="./icons/react.png" />]
 [<img align="left" alt="php" width="30px" src="./icons/php.png" />]
@@ -44,7 +46,7 @@
 [<img align="left" alt="photoshop" width="30px" src="./icons/photoshop.png" />]
 [<img align="left" alt="illustrator" width="30px" src="./icons/illustrator.webp" />]
 [<img align="left" alt="audition" width="30px" src="./icons/audition.png" />]
-[<img align="left" alt="premiere pro" width="30px" src="./icons/premier-pro.png" />]
+[<img align="left" alt="premiere pro" width="30px" src="./icons/premier-pro.jpg" />]
 
 <br />
 <br />
