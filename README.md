@@ -76,4 +76,4 @@
 
 
 [instagram]: https://www.instagram.com/shreejan_sj/
-[linkedin]: www.linkedin.com/in/shreejanjoshi
+[linkedin]: https://www.linkedin.com/in/shreejan-kumar-joshi-613b94219/
